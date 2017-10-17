@@ -1,2 +1,3 @@
 # Frogger
-Emulation of the classic video game
+
+A C++ version of the classic video game frogger.
